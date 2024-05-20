@@ -8,22 +8,6 @@ def funktion1():
     show_sound_lufthansa(root, main_frame)
 
 
-def funktion2():
-    print("Condor aufgerufen")
-
-
-def funktion3():
-    print("TUI aufgerufen")
-
-
-def funktion4():
-    print("TAP Portugal aufgerufen")
-
-
-def funktion5():
-    print("Eurowings aufgerufen")
-
-
 def create_button(main_frame, text, function, button_color):
     hover_color = darken_color(button_color)
     button = CTkButton(main_frame, text=text, corner_radius=15, fg_color=button_color, hover_color=hover_color,
