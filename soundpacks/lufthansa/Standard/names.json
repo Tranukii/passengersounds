@@ -1,0 +1,10 @@
+{
+    "1": {"filename": "boarding.wav", "display_name": "Boarding"},
+    "2": {"filename": "doors.wav", "display_name": "Doors Closing"},
+    "3": {"filename": "welcomesafty.wav", "display_name": "Ansage"},
+    "4": {"filename": "takeoff.wav", "display_name": "Takeoff"},
+    "5": {"filename": "descend.wav", "display_name": "Descend"},
+    "6": {"filename": "landing.wav", "display_name": "Landing"},
+    "7": {"filename": "afterlanding.wav", "display_name": "Afterlanding"},
+    "8": {"filename": "doorsopen.wav", "display_name": "Tür"}
+}
