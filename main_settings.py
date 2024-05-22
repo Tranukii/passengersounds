@@ -73,7 +73,7 @@ def create_einstellungen_window(main_buttons):
     colors_frame = CTkFrame(einstellungsfenster)
     colors_frame.pack(pady=10)
 
-    # Erstellen der modernen Knöpfe
+    # Erstellen der Knöpfe
     for color in modern_colors:
         button = CTkButton(
             colors_frame,
